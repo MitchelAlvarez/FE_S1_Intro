@@ -1,0 +1,49 @@
+Nombre:
+	Luis
+
+Puesto:
+	Asesor inmobiliario
+
+Edad:
+	35
+	
+Nivel de Educacion mas alta:
+	Licenciatura
+	
+Industria:
+	Sector inmobiliario
+	
+Taman~o de la organizacion:
+	Independiente
+
+Canal favorito de comunicacion:
+	Whatsapp
+
+Herramientas que necesita para trabajar:
+	Microsoft Office
+	Celular
+	Applicacion para juntas virtuales
+	Whatsapp
+
+Responsabilidades Laborales:
+	Administracion de rentas
+
+Su trabajo se mide en funcion de:
+	La elecicon de alquilinos
+	El cobro puntual de las rentas
+	El desalohojo de deudores
+
+Metas u objetivos:
+	Aumentar el numero de rantas por administrar
+	Disminuir el numero de laquilinos problematicos
+
+Obtine informacion atravez de:
+	Buro del credito
+	Revision de demandas sobre personas
+
+Dificultades Principales:
+	No poder hacer un estudio a decuado de als personas como si estas tiene demandas en curso.
+	Demandas de desalojo.
+
+	
+		
